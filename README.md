@@ -1,7 +1,7 @@
 <h1>Projeto: Site para uma Clínica Veterinária</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto Front-End de um site para uma Clínica Veterinária, site desenvolvido para praticar.</p>
+<p>Projeto Front-End de um site para uma Clínica Veterinária, site desenvolvido por mim para praticar.</p>
 
 <h3>💻<a href="https://clinica-veterinaria-seven.vercel.app/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
