@@ -4,7 +4,7 @@ import imgTopo from "./assets/fundo-topo.jpg"
 
 import { CiCalendar } from "react-icons/ci";
 import { FiPhone } from "react-icons/fi";
-
+import { FaWhatsapp } from "react-icons/fa";
 
 const SecaoTopo = styled.section`
     display: grid;
@@ -94,7 +94,7 @@ export default function Topo() {
                 <h1>Cuidado e Amor para seu <span>Melhor Amigo</span></h1>
                 <p>Clínica veterinária moderna com equipe especializada e equipamentos de última geração. Porque seu pet merece o melhor cuidado.</p>
                 <div>    
-                    <SecaoTopoFundoBotaoUm href="" className="btn-agendar"><CiCalendar className="iconeBtnUm"/>Agendar Consulta</SecaoTopoFundoBotaoUm>
+                    <SecaoTopoFundoBotaoUm href="" className="btn-agendar"><FaWhatsapp  className="iconeBtnUm"/>Agendar Consulta</SecaoTopoFundoBotaoUm>
                     <SecaoTopoFundoBotaoDois href=""><FiPhone />(11) 99999-9999</SecaoTopoFundoBotaoDois>
                 </div>
 
